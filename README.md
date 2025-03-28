@@ -13,6 +13,7 @@ Inspired by [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-t
 * [Swin Transformer v2](SwinTransformer_v2/swin_transformer.ipynb)
 * [Transformer](Transformer/transformer.ipynb)
 * [U2Fusion](U2Fusion/U2Fusion.ipynb)
+* [Vision Transformer](VisionTransformer/vision_transformer.ipynb)
 
 ## Data
 
